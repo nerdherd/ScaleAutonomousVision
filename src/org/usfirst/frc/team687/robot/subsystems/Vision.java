@@ -19,7 +19,7 @@ public class Vision extends Subsystem {
 	
 	
 	private double camera_FOV_pixel = 360;
-	private double camera_FOV_degree = 150; 
+	private double camera_FOV_degree = 65; 
 	
 	//JeVois Values
 	private double target_left_pixel = 20;
